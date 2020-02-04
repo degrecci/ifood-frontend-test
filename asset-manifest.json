@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ifood-frontend-test/static/css/main.0f7cd881.chunk.css",
+    "main.js": "/ifood-frontend-test/static/js/main.43bb6d35.chunk.js",
+    "main.js.map": "/ifood-frontend-test/static/js/main.43bb6d35.chunk.js.map",
+    "runtime-main.js": "/ifood-frontend-test/static/js/runtime-main.0815624d.js",
+    "runtime-main.js.map": "/ifood-frontend-test/static/js/runtime-main.0815624d.js.map",
+    "static/js/2.1ba26619.chunk.js": "/ifood-frontend-test/static/js/2.1ba26619.chunk.js",
+    "static/js/2.1ba26619.chunk.js.map": "/ifood-frontend-test/static/js/2.1ba26619.chunk.js.map",
+    "index.html": "/ifood-frontend-test/index.html",
+    "precache-manifest.9c4a1224c57fd6895a8430b89198fe30.js": "/ifood-frontend-test/precache-manifest.9c4a1224c57fd6895a8430b89198fe30.js",
+    "service-worker.js": "/ifood-frontend-test/service-worker.js",
+    "static/css/main.0f7cd881.chunk.css.map": "/ifood-frontend-test/static/css/main.0f7cd881.chunk.css.map",
+    "static/js/2.1ba26619.chunk.js.LICENSE.txt": "/ifood-frontend-test/static/js/2.1ba26619.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0815624d.js",
+    "static/js/2.1ba26619.chunk.js",
+    "static/css/main.0f7cd881.chunk.css",
+    "static/js/main.43bb6d35.chunk.js"
+  ]
+}

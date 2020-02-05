@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de3be931b8bd35097719ceb974ecae05",
+    "revision": "750d243135e51f3c1fa252d5a5bff5f4",
     "url": "/ifood-frontend-test/index.html"
   },
   {
-    "revision": "adc35420c42d699a803f",
+    "revision": "f0d9cb49e678f14577d0",
     "url": "/ifood-frontend-test/static/css/2.5dbdccff.chunk.css"
   },
   {
-    "revision": "05ca08e4094370fddd85",
+    "revision": "362c32a8569ba42e8e5e",
     "url": "/ifood-frontend-test/static/css/main.0f7cd881.chunk.css"
   },
   {
-    "revision": "adc35420c42d699a803f",
-    "url": "/ifood-frontend-test/static/js/2.aa243dba.chunk.js"
+    "revision": "f0d9cb49e678f14577d0",
+    "url": "/ifood-frontend-test/static/js/2.bb3f2078.chunk.js"
   },
   {
     "revision": "e933f8dbfdf496cb72e495663a499a00",
-    "url": "/ifood-frontend-test/static/js/2.aa243dba.chunk.js.LICENSE.txt"
+    "url": "/ifood-frontend-test/static/js/2.bb3f2078.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05ca08e4094370fddd85",
-    "url": "/ifood-frontend-test/static/js/main.2f4e3de7.chunk.js"
+    "revision": "362c32a8569ba42e8e5e",
+    "url": "/ifood-frontend-test/static/js/main.0a8bd8c4.chunk.js"
   },
   {
     "revision": "3c6d5e4c8ea467f4877e",
